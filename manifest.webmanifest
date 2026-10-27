@@ -1,0 +1,16 @@
+{
+  "name": "HS & YE",
+  "short_name": "HS & YE",
+  "description": "HS와 예은이의 데이트 지도·플랜·추억 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F4F8",
+  "theme_color": "#7E4FD6",
+  "lang": "ko",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
